@@ -1,6 +1,12 @@
 # music_assignment
 
-A new Flutter project.
+[Download](https://drive.google.com/file/d/1JDqn1S9wkISxbMwWr26TJMwc1pr8ck4N/view?usp=sharing) the app.
+
+## Screenshots
+
+<img src="https://github.com/user-attachments/assets/562a2b8a-1bd2-43cc-92e0-0d279364bd1e" >
+
+https://github.com/user-attachments/assets/2df5fbc4-adde-4b64-9c87-6228cb5f2fa7
 
 ## Getting Started
 
